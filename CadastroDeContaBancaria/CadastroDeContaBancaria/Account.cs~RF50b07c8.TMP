@@ -1,0 +1,74 @@
+﻿using System;
+using System.Globalization;
+
+namespace CadastroDeContaBancaria
+{
+    class Account
+    {
+        public string Name { get; set; }
+        public int Number { get; private set; }
+        public double Balance { get; private set; }
+        public double InitialDeposit;
+
+        public Account()
+        {
+
+        }
+
+        public Account(string name, int number, double initDeposit, double balance)
+        {
+            Name = name;
+            Number = number;
+            InitialDeposit = initDeposit;
+            Balance = balance;
+        }
+        public Account(string name, int number, double balance)
+        {
+            Name = name;
+            Number = number;
+            
+        }
+
+
+
+
+        public int Numero
+        {
+            get { return Number; }
+        }
+
+
+        public double Saldo
+        {
+            get { return Balance; }
+            set 
+            {
+               if (InitialDeposit > 0.0)
+                {
+                    Balance = InitialDeposit;
+                }
+            }
+        }
+
+        public void Deposit (double deposit)
+        {
+            Balance += deposit;
+        }
+        
+        public void Whitdraw(double whitdraw)
+        {
+            Balance -= whitdraw;
+        }
+
+        public String toString()
+        {
+            return "Account "
+                    + Number
+                    + ", Holder: "
+                    + Name
+                    + ", Balance: $ "
+                    +  Balance.ToString("F2",CultureInfo.InvariantCulture);
+        }
+
+    }
+}

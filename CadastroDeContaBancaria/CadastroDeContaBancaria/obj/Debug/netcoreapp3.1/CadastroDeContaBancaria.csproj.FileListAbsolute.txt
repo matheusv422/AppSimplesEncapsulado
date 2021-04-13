@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.exe
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.deps.json
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.runtimeconfig.json
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.dll
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\bin\Debug\netcoreapp3.1\CadastroDeContaBancaria.pdb
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.dll
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.pdb
+C:\Users\Matheus\Desktop\POO\CSharp\EncapsulamentoPOO\CadastroDeContaBancaria\CadastroDeContaBancaria\obj\Debug\netcoreapp3.1\CadastroDeContaBancaria.genruntimeconfig.cache
